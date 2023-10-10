@@ -4,3 +4,7 @@
 
 ## Not valid input examples:
 ![image](https://github.com/AlfonChitoSalano/Bracket/assets/20876086/d3a1692e-c8b1-4662-89ac-b195ba405e4e)
+
+## Program Executed
+![image](https://github.com/AlfonChitoSalano/Bracket/assets/20876086/4deaaa22-dfca-4db7-aa1d-d9f3633c74e6)
+

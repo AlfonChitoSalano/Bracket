@@ -31,6 +31,7 @@ Examples:
     | Alfon              |
     | <Alfon> <Chito>    |
     | <<Alfon> Chito>    |
+    | <abc...xyz>        |
 
 
 Scenario Outline: Not valid bracket placement
